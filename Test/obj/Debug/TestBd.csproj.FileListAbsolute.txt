@@ -1,0 +1,14 @@
+C:\Users\fetra\source\repos\TestIgenosya\Test\obj\Debug\TestBd.csprojAssemblyReference.cache
+C:\Users\fetra\source\repos\TestIgenosya\Test\obj\Debug\TestBd.csproj.CoreCompileInputs.cache
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\Test.exe.config
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\Test.exe
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\Test.pdb
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\TestIgenosya.dll
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\EntityFramework.dll
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\TestIgenosya.pdb
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\TestIgenosya.dll.config
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\EntityFramework.xml
+C:\Users\fetra\source\repos\TestIgenosya\Test\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\fetra\source\repos\TestIgenosya\Test\obj\Debug\TestBd.csproj.CopyComplete
+C:\Users\fetra\source\repos\TestIgenosya\Test\obj\Debug\Test.exe
+C:\Users\fetra\source\repos\TestIgenosya\Test\obj\Debug\Test.pdb

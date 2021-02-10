@@ -1,0 +1,27 @@
+﻿@*@helper GetTreeview(List<TreeView.Menu> menu, int parentID)
+{
+    foreach (var i in menu.Where(a => a.ParentMenuID.Equals(parentID)))
+    {
+        <li>
+            @{var submenu = menu.Where(a => a.ParentMenuID.Equals(i.MenuId)).Count();}
+            @if (submenu > 0)
+            {
+                <span class="collapse collapsing">&nbsp;</span>
+            }
+            else
+            {
+                <span style="width:15px; display:inline-block">&nbsp;</span>
+            }
+            <span>
+                <a href="@i.NaveURL">@i.MenuName</a>
+            </span>
+            @if (submenu > 0) 
+            {
+                <ul>
+                    @Treeview.GetTreeview(menu, i.MenuId)
+                </ul>
+            }
+        </li>
+
+    }
+}*@
